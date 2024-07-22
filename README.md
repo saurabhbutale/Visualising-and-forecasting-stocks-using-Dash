@@ -49,4 +49,4 @@ Stock investments can offer high returns but are inherently volatile. Visualizin
 - Train the model with historical stock prices and use it for prediction.
 
 
-## Output Screenshot
+
