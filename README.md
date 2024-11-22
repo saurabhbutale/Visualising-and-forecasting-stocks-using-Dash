@@ -3,7 +3,8 @@
 ## Overview
 
 This project is a single-page web application built using Dash (a Python framework) to visualize and forecast stock prices. The application displays company information (registered name, and description) and stock plots based on the stock code provided by the user. Additionally, a machine learning model predicts stock prices for a user-inputted date.
-https://github.com/user-attachments/assets/24728290-6a8b-4545-9049-108240bd27b3
+
+https://github.com/user-attachments/assets/9e813d42-d204-428f-a433-ed2e087c9c6a
 ## Objective
 
 The primary goal is to develop a user-friendly web application that allows users to visualize financial data dynamically and predict future stock prices. This project serves as an excellent introduction to Python, data science, and machine learning.
